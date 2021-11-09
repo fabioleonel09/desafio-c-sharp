@@ -1,0 +1,16 @@
+C:\Users\Meus documentos\source\repos\controleFuncionarios\bin\Debug\net5.0\controleFuncionarios.exe
+C:\Users\Meus documentos\source\repos\controleFuncionarios\bin\Debug\net5.0\controleFuncionarios.deps.json
+C:\Users\Meus documentos\source\repos\controleFuncionarios\bin\Debug\net5.0\controleFuncionarios.runtimeconfig.json
+C:\Users\Meus documentos\source\repos\controleFuncionarios\bin\Debug\net5.0\controleFuncionarios.runtimeconfig.dev.json
+C:\Users\Meus documentos\source\repos\controleFuncionarios\bin\Debug\net5.0\controleFuncionarios.dll
+C:\Users\Meus documentos\source\repos\controleFuncionarios\bin\Debug\net5.0\ref\controleFuncionarios.dll
+C:\Users\Meus documentos\source\repos\controleFuncionarios\bin\Debug\net5.0\controleFuncionarios.pdb
+C:\Users\Meus documentos\source\repos\controleFuncionarios\obj\Debug\net5.0\controleFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meus documentos\source\repos\controleFuncionarios\obj\Debug\net5.0\controleFuncionarios.AssemblyInfoInputs.cache
+C:\Users\Meus documentos\source\repos\controleFuncionarios\obj\Debug\net5.0\controleFuncionarios.AssemblyInfo.cs
+C:\Users\Meus documentos\source\repos\controleFuncionarios\obj\Debug\net5.0\controleFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Meus documentos\source\repos\controleFuncionarios\obj\Debug\net5.0\controleFuncionarios.dll
+C:\Users\Meus documentos\source\repos\controleFuncionarios\obj\Debug\net5.0\ref\controleFuncionarios.dll
+C:\Users\Meus documentos\source\repos\controleFuncionarios\obj\Debug\net5.0\controleFuncionarios.pdb
+C:\Users\Meus documentos\source\repos\controleFuncionarios\obj\Debug\net5.0\controleFuncionarios.genruntimeconfig.cache
+C:\Users\Meus documentos\source\repos\controleFuncionarios\obj\Debug\net5.0\controleFuncionarios.csproj.AssemblyReference.cache
